@@ -1,7 +1,5 @@
 import urllib.request
-
-from django.shortcuts import render, redirect
-import requests
+from django.shortcuts import render
 import json
 
 
